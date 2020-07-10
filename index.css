@@ -1,0 +1,98 @@
+body
+{
+    background-color: rgb(255, 232, 252);
+    
+}
+button
+{
+    font-size: 30px;
+    color: white;
+    background:palevioletred;
+    
+    height: 50px;
+    width: 150px;
+    
+}
+div#divv
+{
+    width: 600px;
+}
+input#id_1
+{
+    border-color: palevioletred;
+    
+    position: absolute;
+ left: 9%; top:21.5%;
+ height: 22px;
+    width: 150px;
+    padding-left: 2px;
+}
+select#id_2
+{
+    position: absolute;
+ left: 22%; top:21.5%;
+ height: 20px;
+    width: 150px;
+    border-color: palevioletred;
+}
+select#id_4
+{
+    position: absolute;
+ left: 22%; top:28%;
+ height: 20px;
+    width: 150px;
+    border-color: palevioletred;
+}
+h1
+{
+    color: palevioletred;
+    
+}
+div#div_3
+{
+    position: absolute;
+ left: 8.25%; top:25%;
+    background-color: white;
+  width: 130px;
+  border: 2px solid palevioletred;
+  padding-left: 4px;
+  padding-top: 6px;
+  padding-right: 17px;
+  padding-bottom: 24px;
+  margin: 10px;
+  
+
+  height: 0.05px;
+  font-size: 15px;
+  font-weight: bold;
+  
+  
+ 
+  
+}
+p
+{
+    font-size: large;
+    font-weight: bold;
+}
+img#img_1
+{
+    position: absolute;
+ right:30%; top:25%;
+    height: 150px;
+    width: 250px;
+}
+img#img_2
+{
+    position: absolute;
+ right: 9%; top:10%;
+    height: 150px;
+    width: 170px;
+}
+img#img_3
+{
+    position: absolute;
+ right: 7%; top:50%;
+    height: 200px;
+    width: 200px;
+}
